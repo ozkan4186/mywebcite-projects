@@ -41,27 +41,57 @@ header h1{
     position: relative;
     width: 60%;
 }
+#img1:hover{
+    cursor: pointer;
+    background-color:blue;
+    box-shadow: 5px 4px 40px;
+}
 #img2{
     position: relative;
   width: 60%;
   margin-top: 100px;
 }
+#img2:hover{
+   cursor: pointer;
+    background-color:blue;
+    box-shadow: 5px 4px 40px;
+}
 #img3{
     position: relative;
     width: 60%;
 }
+#img3:hover{
+  cursor: pointer;
+    background-color:blue;
+    box-shadow: 5px 4px 40px;
+}
 #img4{
     position: relative;
    width: 60%;
+}
+#img4:hover{
+  cursor: pointer;
+    background-color:blue;
+    box-shadow: 5px 4px 40px;
 }
 #img5{
     position: relative;
     width: 60%;
     margin-top: 100px;
 }
+#img5:hover{
+  cursor: pointer;
+    background-color:blue;
+    box-shadow: 5px 4px 40px;
+}
 #img6{
     position: relative;
     width: 60%;
+}
+#img6:hover{
+  cursor: pointer;
+    background-color:blue;
+    box-shadow: 5px 4px 40px;
 }
 #span1,#span3{
     writing-mode: vertical-lr;
